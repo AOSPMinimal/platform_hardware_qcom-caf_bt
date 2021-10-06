@@ -1,4 +1,4 @@
-ifeq ($(call my-dir),$(call project-path-for,qcom-bt-vendor))
+ifeq ($(call my-dir),$(call project-path-for,bt-vendor))
 
 LOCAL_PATH := $(call my-dir)
 
